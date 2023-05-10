@@ -6,7 +6,7 @@ I am Front End developer.
 
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://yixinz.dev'>Portfolio</a>
-*   🧠  Currently learning Node JS
+*   🧠  Currently learning NEXT JS
 *   🤝  I'm open to work and collaborating on interesting projects as a developer
 
 ### Skills
